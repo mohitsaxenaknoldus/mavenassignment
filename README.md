@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/mohitsaxenaknoldus/mavenassignment/tree/main.svg?style=svg)](https://circleci.com/gh/mohitsaxenaknoldus/mavenassignment/tree/main)
+
 Maven Assignment Group 1
 
 Modules:
